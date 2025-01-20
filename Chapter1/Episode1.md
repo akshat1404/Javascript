@@ -20,6 +20,6 @@ When a browser loads an HTML doc, it parses the HTML file and creates a DOM tree
 This DOM is provided by web browsers to allow us (developers) to interact with and manipulte each element of the HTML file we are working with. Whether it be changing text written inside a `<p>` or changing the style of paragraph itself. It can also be adding a new `<p>` tag inside an already existing `<p>` tag or triggering a function when someone clicks or hovers or performs any other event on that paragraph.<br>
 Basically the DOM is a bridge between javascript and HTML, giving javascript the access to all the elements present in the body of HTML<br>
 Note that these HTML elements are provided to us as objects, and like every object they have certain properties and methods. For a `<div>` we have : <br>
-Properties : style, id, className, children (elements inside the div tag) etc.
-Methods : appendChild() : to add another node inside the div, remove() : to remove an existing node, addEventListener() : to attach event listeners like 'click', 'scroll' etc.<br>
+*Properties* : style, id, className, children (elements inside the div tag) etc.<br>
+*Methods* : appendChild() : to add another node inside the div, remove() : to remove an existing node, addEventListener() : to attach event listeners like 'click', 'scroll' etc.<br>
 **So, now dynamic updates are possible in the HTML file without needing a server side trip, thus preventing the page from reloading.**
