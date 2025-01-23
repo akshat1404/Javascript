@@ -23,3 +23,5 @@ Note that these HTML elements are provided to us as objects, and like every obje
 *Properties* : style, id, className, children (elements inside the div tag) etc.<br>
 *Methods* : appendChild() : to add another node inside the div, remove() : to remove an existing node, addEventListener() : to attach event listeners like 'click', 'scroll' etc.<br>
 **So, now dynamic updates are possible in the HTML file without needing a server side trip, thus preventing the page from reloading.**
+
+More things needed to be added.
