@@ -25,3 +25,4 @@ Note that these HTML elements are provided to us as objects, and like every obje
 **So, now dynamic updates are possible in the HTML file without needing a server side trip, thus preventing the page from reloading.**
 
 More things needed to be added.
+Not getting time to add shit.
